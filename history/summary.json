@@ -4,17 +4,17 @@
     "url": "https://www.shipwire.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shipwire.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 700,
+    "timeDay": 700,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   }
 ]

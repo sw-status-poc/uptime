@@ -6,15 +6,15 @@
     "slug": "shipwire-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 731,
-    "timeDay": 647,
+    "time": 730,
+    "timeDay": 670,
     "timeWeek": 689,
-    "timeMonth": 697,
-    "timeYear": 731,
+    "timeMonth": 692,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2024-06-03": 12
     }
